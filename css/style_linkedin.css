@@ -17,8 +17,8 @@
 
         a{
             display: block;
-            background-color: white;
-            color: blue;
+            background-color: blue;
+            color: white;
             padding: 10px;
             text-align: center;
             font-weight: bolder;
@@ -26,6 +26,6 @@
         }
 
         a:hover{
-            background-color: blue;
-            color: white;
+            background-color: white;
+            color: blue;
         }
